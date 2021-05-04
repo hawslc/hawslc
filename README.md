@@ -1,7 +1,7 @@
 I am a high school student that likes coding a bit.
 Some of my accomplishments include:
 <br>
-Solving the first 100 problems on projecteuler.net
+Solving the first 100 problems on <a href="projecteuler.net">Project Euler</a>
 <br>
 Written many small games: <a href="hawslc.itch.io">Itch.io Profile</a>
 <br>
